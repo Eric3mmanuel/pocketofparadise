@@ -441,3 +441,7 @@
     padding-right: 0;
     border-right: none;
 }
+#tidio-chat,
+.tidio-chat {
+  display: none !important;
+}
